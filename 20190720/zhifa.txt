@@ -1,0 +1,4 @@
+
+Ctrl + A  全选
+Ctrl + C 复制 
+Ctrl + V 粘贴
